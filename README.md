@@ -5,3 +5,7 @@
 [![javadoc](https://javadoc.io/badge2/com.github.ngeor/yak4j-dom/javadoc.svg)](https://javadoc.io/doc/com.github.ngeor/yak4j-dom)
 
 A Java library to work easier with DOM.
+
+**Archived repository!**
+The repository is **archived** and will be **removed**.
+It has been migrated [here](https://github.com/ngeor/kamino/tree/master/libs/yak4j-dom).
