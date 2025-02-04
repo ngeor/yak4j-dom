@@ -303,7 +303,7 @@
       <activation>
         <property>
           <name>env.GITHUB_REF_TYPE</name>
-          <value>!tag</value>
+          <value>branch</value>
         </property>
       </activation>
       <build>
