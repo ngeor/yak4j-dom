@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.ngeor</groupId>
   <artifactId>yak4j-dom</artifactId>
-  <version>2.0.1-SNAPSHOT</version>
+  <version>2.0.1</version>
   <packaging>jar</packaging>
   <name>yak4j-dom</name>
   <description>yak shaving for Java: XML utilities</description>
@@ -23,7 +23,7 @@
   <scm>
     <connection>scm:git:https://github.com/ngeor/yak4j-dom.git</connection>
     <developerConnection>scm:git:git@github.com:ngeor/yak4j-dom.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v2.0.1</tag>
     <url>https://github.com/ngeor/yak4j-dom</url>
   </scm>
   <properties>
