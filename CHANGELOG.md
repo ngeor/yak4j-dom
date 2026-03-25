@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.2] - 2026-03-25
+
+### ⚙️ Miscellaneous Tasks
+
+- Use new release tool
+
 ## [2.1.1] - 2026-03-22
 
 ### Deps
