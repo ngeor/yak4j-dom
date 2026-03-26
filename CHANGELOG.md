@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.5] - 2026-03-26
+
+### ⚙️ Miscellaneous Tasks
+
+- Upgrade to Java 25
+
 ## [2.1.4] - 2026-03-25
 
 ### ⚙️ Miscellaneous Tasks
