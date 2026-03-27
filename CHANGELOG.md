@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.9] - 2026-03-27
+
+### ⚙️ Miscellaneous Tasks
+
+- Use latest release tooling
+
 ## [2.1.8] - 2026-03-26
 
 ### ⚙️ Miscellaneous Tasks
